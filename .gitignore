@@ -1,0 +1,14 @@
+
+.vs/templates/v16/.suo
+*.db
+*.opendb
+*.ipch
+*.obj
+*.log
+*.ilk
+*.pdb
+*.tlog
+*.idb
+Debug/templates.vcxproj.FileListAbsolute.txt
+templates.vcxproj
+templates.vcxproj.filters
